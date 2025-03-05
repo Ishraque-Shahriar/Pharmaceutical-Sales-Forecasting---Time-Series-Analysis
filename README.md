@@ -40,8 +40,7 @@ Run the following command in R to install necessary libraries:
 
 install.packages(c("dplyr", "readr", "forecast", "zoo"))
 
-
-# Run the R Script
+Run the R Script
 
 Load the dataset (salesmonthly.csv).
 Execute the Time Series Analytics_Pharmaceutical-Sales-Forecasting.R script.
